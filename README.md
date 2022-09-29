@@ -12,17 +12,14 @@ Please open the notebook in google colab and run the cells from top to bottom re
 
 If you use the code of this repository, please do not forget to cite the following:
 ```
-@article{Target Features Affect Visual Search, A Study of Eye Fixations,
-  title={},
-    journal = {ArXiv},
-    volume = {},
-    number = {},
-    pages = {},
-    year = {},
-    month = {},
-    issn = {},
-    doi = {},
-    url = {},
-    eprint = {},
+@misc{https://doi.org/10.48550/arxiv.2209.13771,
+  doi = {10.48550/ARXIV.2209.13771},
+  url = {https://arxiv.org/abs/2209.13771},
+  author = {Samiei, Manoosh and Clark, James J.},  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Applications (stat.AP), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Target Features Affect Visual Search, A Study of Eye Fixations},
+  publisher = {arXiv}, 
+  year = {2022}, 
+  copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
